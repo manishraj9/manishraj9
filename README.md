@@ -11,7 +11,7 @@
 - 🎓 B.Tech in Computer Science & Engineering @ KIIT, Bhubaneswar
 - 🌱 Currently mastering: **DSA in Java**, **ReactJS**, **Machine Learning**
 - 🧠 Interested in AI/ML, Full-stack projects, and solving real-world problems
-- 💼 AI-ML Intern @ **AICTE powered by Google and AWS** | Trainee @ **Nisum Technology**
+- 💼 AI-ML Intern @ **AICTE powered by Google and AWS** 
 - 📌 Achievement: **Multilingual Synopsis Generator research paper** (Accepted at ICDEC '24 & ICPR '24)
 - 📌 Achievement: Present Research Paper and won first prize at National Conclave for My Research Paper **Responsible AI , Migration and Global Governance** (Published at National Conclave @ VIKSIT BHARAT 2047)
 - ✨ My mantra: *"Be better than yesterday, every damn day."*
